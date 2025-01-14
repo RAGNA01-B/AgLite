@@ -15,7 +15,7 @@ global.isBaileysFail = false
 
 global.owner = [
   ['5215646809363', 'RagnaBot', true],
-  ['5215527305507', 'Colaborador', true],
+  ['5215660166513', 'Colaborador', true],
   ['5215527305507', 'Arm', true],
 ];
 
